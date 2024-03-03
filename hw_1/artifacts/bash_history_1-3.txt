@@ -1,0 +1,30 @@
+  974  touch tail_1-2.py 
+  975  mv tail_1-2.py hw_1/
+  976  ls
+  977  cd hw_1/
+  978  python3 tail_1-2.py test_file_1-1.txt 
+  979  tail test_file_1-1.txt 
+  980  touch artifacts/test_file_1-2.txt > sfdsfdsfdsfds
+  981  python3 tail_1-2.py artifacts/test_file_1-2.txt 
+  982  python3 tail_1-2.py artifacts/test_file_1-2.txt artifacts/test_file_1-1
+  983  python3 tail_1-2.py artifacts/test_file_1-2.txt artifacts/test_file_1-1.txt 
+  984  python3 tail_1-2.py 
+  985  tail
+  986  ln 
+  987  ln -b
+  988  ln -b -a
+  989  ln -b a
+  990  nl
+  991  tail
+  992  tail artifacts/test_file_1-1.txt artifacts/test_file_1-2.txt 
+  993  nl artifacts/test_file_1-1.txt artifacts/test_file_1-2.txt 
+  994  tail
+  995  python3 tail_1-2.py 
+  996  history 30 > artifacts/bash_history_1-2.txt
+  997  touch wc_1-3.py
+  998  python wc_1-3.py 
+  999  python3 wc_1-3.py 
+ 1000  python3 wc_1-3.py artifacts/test_file_1-
+ 1001  python3 wc_1-3.py artifacts/test_file_1-1.txt 
+ 1002  python3 wc_1-3.py artifacts/test_file_1-1.txt artifacts/test_file_1-2.txt 
+ 1003  history 30 > artifacts/bash_history_1-3.txt

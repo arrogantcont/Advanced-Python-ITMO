@@ -1,0 +1,30 @@
+  944  ls
+  945  echo /usr/bin/bash
+  946  git clone git@github.com:arrogantcont/Advanced-Python-ITMO.git
+  947  cd Advanced-Python-ITMO/
+  948  ls
+  949  mkdirs hw_1
+  950  mkdir hw_1
+  951  cd hw_1
+  952  git add . 
+  953  git commit 
+  954  touch main.py
+  955  nano main.py
+  956  pytho3 main.py 
+  957  python main.py 
+  958  python3 main.py 
+  959  nano main.py 
+  960  git add .
+  961  git commit 
+  962  git push 
+  963  mkdir artefacts
+  964  ls
+  965  touch requirements.txt 
+  966  ls
+  967  nano nl_1-1.py 
+  968  vs .
+  969  code .
+  970  ls
+  971  python3 hw_1/nl_1-1.py hw_1/test_file_1-1.txt README.md 
+  972  python3 hw_1/nl_1-1.py fsdf
+  973  history 30 > hw_1/bash_history_1-1.txt
