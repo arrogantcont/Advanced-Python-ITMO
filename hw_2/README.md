@@ -2,7 +2,7 @@
 
 Сылка на библиотеку: https://pypi.org/project/gfdreyur-latex-utils/
 
-## Установка Linux pdf
+## Установка Linux 
 
 
 ```sh
