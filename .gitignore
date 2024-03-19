@@ -1,0 +1,6 @@
+*.log
+*.aux
+hw_2/__pycache__
+hw_2/build
+hw_2/gfdreyur_latex_utils.egg-info
+hw_2/dist

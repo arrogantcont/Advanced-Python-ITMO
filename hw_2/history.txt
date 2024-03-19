@@ -1,0 +1,50 @@
+  948  ls
+  949  mkdirs hw_1
+  950  mkdir hw_1
+  951  cd hw_1
+  952  git add . 
+  953  git commit 
+  954  touch main.py
+  955  nano main.py
+  956  pytho3 main.py 
+  957  python main.py 
+  958  python3 main.py 
+  959  nano main.py 
+  960  git add .
+  961  git commit 
+  962  git push 
+  963  mkdir artefacts
+  964  ls
+  965  touch requirements.txt 
+  966  ls
+  967  nano nl_1-1.py 
+  968  vs .
+  969  code .
+  970  /bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  971  hw_2/artifacts/image.png
+  972  ext install mjpvs.latex-previewer
+  973  git add .
+  974  git commit 
+  975  git push 
+  976  python hw_2/setup.py sdist bdist_wheel
+  977  python3 hw_2/setup.py sdist bdist_wheel
+  978  cd hw_2
+  979  python3 setup.py sdist bdist_wheel
+  980  pip install twine
+  981  twine upload dist/*
+  982  python3 setup.py sdist bdist_wheel
+  983  twine upload dist/*
+  984  python3 setup.py sdist bdist_wheel
+  985  twine upload dist/*
+  986  pip install gfdreyur-latex-utils
+  987  /bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  988  cd hw_1
+  989  cd ..
+  990  cd hw_2
+  991  python3 main.py 
+  992  python3 setup.py sdist bdist_wheel/bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  993  ext install mjpvs.latex-previewer/bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  994  /bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  995  cd ..
+  996  pdflatex hw_2/artifacts/document.tex 
+  997  history 50 > history.txt
