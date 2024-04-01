@@ -1,0 +1,52 @@
+ThreadPoolExecutor Results:
+  1 jobs: 1.26 seconds
+  2 jobs: 3.17 seconds
+  3 jobs: 4.55 seconds
+  4 jobs: 4.31 seconds
+  5 jobs: 3.17 seconds
+  6 jobs: 3.86 seconds
+  7 jobs: 3.32 seconds
+  8 jobs: 4.38 seconds
+  9 jobs: 4.62 seconds
+  10 jobs: 4.20 seconds
+  11 jobs: 3.60 seconds
+  12 jobs: 4.82 seconds
+  13 jobs: 4.75 seconds
+  14 jobs: 3.97 seconds
+  15 jobs: 3.42 seconds
+  16 jobs: 3.25 seconds
+  17 jobs: 3.48 seconds
+  18 jobs: 3.25 seconds
+  19 jobs: 3.41 seconds
+  20 jobs: 3.32 seconds
+  21 jobs: 3.49 seconds
+  22 jobs: 3.38 seconds
+  23 jobs: 3.19 seconds
+  24 jobs: 3.50 seconds
+
+ProcessPoolExecutor Results:
+  1 jobs: 1.39 seconds
+  2 jobs: 0.64 seconds
+  3 jobs: 0.44 seconds
+  4 jobs: 0.35 seconds
+  5 jobs: 0.44 seconds
+  6 jobs: 0.48 seconds
+  7 jobs: 0.42 seconds
+  8 jobs: 0.39 seconds
+  9 jobs: 0.42 seconds
+  10 jobs: 0.41 seconds
+  11 jobs: 0.42 seconds
+  12 jobs: 0.40 seconds
+  13 jobs: 0.40 seconds
+  14 jobs: 0.40 seconds
+  15 jobs: 0.42 seconds
+  16 jobs: 0.40 seconds
+  17 jobs: 0.41 seconds
+  18 jobs: 0.44 seconds
+  19 jobs: 0.41 seconds
+  20 jobs: 0.43 seconds
+  21 jobs: 0.40 seconds
+  22 jobs: 0.41 seconds
+  23 jobs: 0.40 seconds
+  24 jobs: 0.40 seconds
+

@@ -1,0 +1,50 @@
+  945  echo /usr/bin/bash
+  946  git clone git@github.com:arrogantcont/Advanced-Python-ITMO.git
+  947  cd Advanced-Python-ITMO/
+  948  ls
+  949  mkdirs hw_1
+  950  mkdir hw_1
+  951  cd hw_1
+  952  git add . 
+  953  git commit 
+  954  touch main.py
+  955  nano main.py
+  956  pytho3 main.py 
+  957  python main.py 
+  958  python3 main.py 
+  959  nano main.py 
+  960  git add .
+  961  git commit 
+  962  git push 
+  963  mkdir artefacts
+  964  ls
+  965  touch requirements.txt 
+  966  ls
+  967  nano nl_1-1.py 
+  968  vs .
+  969  code .
+  970  /bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_2/main.py
+  971  hw_2/artifacts/image.png
+  972  ext install mjpvs.latex-previewer
+  973  git add .
+  974  git commit 
+  975  git push 
+  976  python hw_2/setup.py sdist bdist_wheel
+  977  python3 hw_2/setup.py sdist bdist_wheel
+  978  cd hw_2
+  979  python3 setup.py sdist bdist_wheel
+  980  pip install twine
+  981  twine upload dist/*
+  982  python3 setup.py sdist bdist_wheel
+  983  twine upload dist/*
+  984  python3 setup.py sdist bdist_wheel
+  985  twine upload dist/*
+  986  pip install gfdreyur-latex-utils
+  987  sudo reboot now 
+  988  /bin/python3 /media/yura/edbf3aee-91a2-4ee8-98ca-fb2ac8d9fc21/study/Advanced-Python-ITMO/hw_3/main.py
+  989  touch requirements.txt > numpy
+  990  mv requirements.txt hw_3
+  991  git add .
+  992  git commit 
+  993  git push 
+  994  history 50 > hw_3/artifacts/history.txt

@@ -1,0 +1,96 @@
+2024-04-02 02:48:16,014 - INFO - Starting ThreadPoolExecutor with 1 jobs
+2024-04-02 02:48:17,279 - INFO - Finished ThreadPoolExecutor with 1 jobs: Result = 1.0000000785399288, Time = 1.26s
+2024-04-02 02:48:17,279 - INFO - Starting ThreadPoolExecutor with 2 jobs
+2024-04-02 02:48:20,449 - INFO - Finished ThreadPoolExecutor with 2 jobs: Result = 1.0000000785398064, Time = 3.17s
+2024-04-02 02:48:20,449 - INFO - Starting ThreadPoolExecutor with 3 jobs
+2024-04-02 02:48:24,996 - INFO - Finished ThreadPoolExecutor with 3 jobs: Result = 1.0000000785398058, Time = 4.55s
+2024-04-02 02:48:24,996 - INFO - Starting ThreadPoolExecutor with 4 jobs
+2024-04-02 02:48:29,304 - INFO - Finished ThreadPoolExecutor with 4 jobs: Result = 1.000000078539799, Time = 4.31s
+2024-04-02 02:48:29,304 - INFO - Starting ThreadPoolExecutor with 5 jobs
+2024-04-02 02:48:32,479 - INFO - Finished ThreadPoolExecutor with 5 jobs: Result = 1.000000078539829, Time = 3.17s
+2024-04-02 02:48:32,479 - INFO - Starting ThreadPoolExecutor with 6 jobs
+2024-04-02 02:48:36,340 - INFO - Finished ThreadPoolExecutor with 6 jobs: Result = 1.0000000785398386, Time = 3.86s
+2024-04-02 02:48:36,340 - INFO - Starting ThreadPoolExecutor with 7 jobs
+2024-04-02 02:48:39,655 - INFO - Finished ThreadPoolExecutor with 7 jobs: Result = 1.0000000785398586, Time = 3.32s
+2024-04-02 02:48:39,656 - INFO - Starting ThreadPoolExecutor with 8 jobs
+2024-04-02 02:48:44,039 - INFO - Finished ThreadPoolExecutor with 8 jobs: Result = 1.0000000785398042, Time = 4.38s
+2024-04-02 02:48:44,040 - INFO - Starting ThreadPoolExecutor with 9 jobs
+2024-04-02 02:48:48,656 - INFO - Finished ThreadPoolExecutor with 9 jobs: Result = 1.0000000785398133, Time = 4.62s
+2024-04-02 02:48:48,656 - INFO - Starting ThreadPoolExecutor with 10 jobs
+2024-04-02 02:48:52,857 - INFO - Finished ThreadPoolExecutor with 10 jobs: Result = 1.0000000785398198, Time = 4.20s
+2024-04-02 02:48:52,857 - INFO - Starting ThreadPoolExecutor with 11 jobs
+2024-04-02 02:48:56,457 - INFO - Finished ThreadPoolExecutor with 11 jobs: Result = 1.0000000785398793, Time = 3.60s
+2024-04-02 02:48:56,458 - INFO - Starting ThreadPoolExecutor with 12 jobs
+2024-04-02 02:49:01,275 - INFO - Finished ThreadPoolExecutor with 12 jobs: Result = 1.000000078539852, Time = 4.82s
+2024-04-02 02:49:01,275 - INFO - Starting ThreadPoolExecutor with 13 jobs
+2024-04-02 02:49:06,024 - INFO - Finished ThreadPoolExecutor with 13 jobs: Result = 1.0000000785398884, Time = 4.75s
+2024-04-02 02:49:06,024 - INFO - Starting ThreadPoolExecutor with 14 jobs
+2024-04-02 02:49:09,999 - INFO - Finished ThreadPoolExecutor with 14 jobs: Result = 1.0000000785398893, Time = 3.97s
+2024-04-02 02:49:10,000 - INFO - Starting ThreadPoolExecutor with 15 jobs
+2024-04-02 02:49:13,416 - INFO - Finished ThreadPoolExecutor with 15 jobs: Result = 1.0000000785398828, Time = 3.42s
+2024-04-02 02:49:13,416 - INFO - Starting ThreadPoolExecutor with 16 jobs
+2024-04-02 02:49:16,667 - INFO - Finished ThreadPoolExecutor with 16 jobs: Result = 1.00000007853981, Time = 3.25s
+2024-04-02 02:49:16,667 - INFO - Starting ThreadPoolExecutor with 17 jobs
+2024-04-02 02:49:20,143 - INFO - Finished ThreadPoolExecutor with 17 jobs: Result = 1.0000000785398406, Time = 3.48s
+2024-04-02 02:49:20,143 - INFO - Starting ThreadPoolExecutor with 18 jobs
+2024-04-02 02:49:23,392 - INFO - Finished ThreadPoolExecutor with 18 jobs: Result = 1.0000000785398868, Time = 3.25s
+2024-04-02 02:49:23,392 - INFO - Starting ThreadPoolExecutor with 19 jobs
+2024-04-02 02:49:26,805 - INFO - Finished ThreadPoolExecutor with 19 jobs: Result = 1.0000000785399374, Time = 3.41s
+2024-04-02 02:49:26,805 - INFO - Starting ThreadPoolExecutor with 20 jobs
+2024-04-02 02:49:30,122 - INFO - Finished ThreadPoolExecutor with 20 jobs: Result = 1.0000000785398178, Time = 3.32s
+2024-04-02 02:49:30,122 - INFO - Starting ThreadPoolExecutor with 21 jobs
+2024-04-02 02:49:33,612 - INFO - Finished ThreadPoolExecutor with 21 jobs: Result = 1.0000000785398933, Time = 3.49s
+2024-04-02 02:49:33,613 - INFO - Starting ThreadPoolExecutor with 22 jobs
+2024-04-02 02:49:36,995 - INFO - Finished ThreadPoolExecutor with 22 jobs: Result = 1.0000000785398897, Time = 3.38s
+2024-04-02 02:49:36,996 - INFO - Starting ThreadPoolExecutor with 23 jobs
+2024-04-02 02:49:40,188 - INFO - Finished ThreadPoolExecutor with 23 jobs: Result = 1.00000007853992, Time = 3.19s
+2024-04-02 02:49:40,188 - INFO - Starting ThreadPoolExecutor with 24 jobs
+2024-04-02 02:49:43,693 - INFO - Finished ThreadPoolExecutor with 24 jobs: Result = 1.0000000785399346, Time = 3.50s
+2024-04-02 02:49:43,693 - INFO - Starting ProcessPoolExecutor with 1 jobs
+2024-04-02 02:49:45,084 - INFO - Finished ProcessPoolExecutor with 1 jobs: Result = 1.0000000785399288, Time = 1.39s
+2024-04-02 02:49:45,084 - INFO - Starting ProcessPoolExecutor with 2 jobs
+2024-04-02 02:49:45,720 - INFO - Finished ProcessPoolExecutor with 2 jobs: Result = 1.0000000785398064, Time = 0.64s
+2024-04-02 02:49:45,720 - INFO - Starting ProcessPoolExecutor with 3 jobs
+2024-04-02 02:49:46,159 - INFO - Finished ProcessPoolExecutor with 3 jobs: Result = 1.0000000785398058, Time = 0.44s
+2024-04-02 02:49:46,159 - INFO - Starting ProcessPoolExecutor with 4 jobs
+2024-04-02 02:49:46,508 - INFO - Finished ProcessPoolExecutor with 4 jobs: Result = 1.000000078539799, Time = 0.35s
+2024-04-02 02:49:46,509 - INFO - Starting ProcessPoolExecutor with 5 jobs
+2024-04-02 02:49:46,951 - INFO - Finished ProcessPoolExecutor with 5 jobs: Result = 1.000000078539829, Time = 0.44s
+2024-04-02 02:49:46,951 - INFO - Starting ProcessPoolExecutor with 6 jobs
+2024-04-02 02:49:47,429 - INFO - Finished ProcessPoolExecutor with 6 jobs: Result = 1.0000000785398386, Time = 0.48s
+2024-04-02 02:49:47,429 - INFO - Starting ProcessPoolExecutor with 7 jobs
+2024-04-02 02:49:47,847 - INFO - Finished ProcessPoolExecutor with 7 jobs: Result = 1.0000000785398586, Time = 0.42s
+2024-04-02 02:49:47,847 - INFO - Starting ProcessPoolExecutor with 8 jobs
+2024-04-02 02:49:48,240 - INFO - Finished ProcessPoolExecutor with 8 jobs: Result = 1.0000000785398042, Time = 0.39s
+2024-04-02 02:49:48,240 - INFO - Starting ProcessPoolExecutor with 9 jobs
+2024-04-02 02:49:48,661 - INFO - Finished ProcessPoolExecutor with 9 jobs: Result = 1.0000000785398133, Time = 0.42s
+2024-04-02 02:49:48,661 - INFO - Starting ProcessPoolExecutor with 10 jobs
+2024-04-02 02:49:49,076 - INFO - Finished ProcessPoolExecutor with 10 jobs: Result = 1.0000000785398198, Time = 0.41s
+2024-04-02 02:49:49,076 - INFO - Starting ProcessPoolExecutor with 11 jobs
+2024-04-02 02:49:49,492 - INFO - Finished ProcessPoolExecutor with 11 jobs: Result = 1.0000000785398793, Time = 0.42s
+2024-04-02 02:49:49,492 - INFO - Starting ProcessPoolExecutor with 12 jobs
+2024-04-02 02:49:49,892 - INFO - Finished ProcessPoolExecutor with 12 jobs: Result = 1.000000078539852, Time = 0.40s
+2024-04-02 02:49:49,893 - INFO - Starting ProcessPoolExecutor with 13 jobs
+2024-04-02 02:49:50,290 - INFO - Finished ProcessPoolExecutor with 13 jobs: Result = 1.0000000785398884, Time = 0.40s
+2024-04-02 02:49:50,290 - INFO - Starting ProcessPoolExecutor with 14 jobs
+2024-04-02 02:49:50,694 - INFO - Finished ProcessPoolExecutor with 14 jobs: Result = 1.0000000785398893, Time = 0.40s
+2024-04-02 02:49:50,694 - INFO - Starting ProcessPoolExecutor with 15 jobs
+2024-04-02 02:49:51,111 - INFO - Finished ProcessPoolExecutor with 15 jobs: Result = 1.0000000785398828, Time = 0.42s
+2024-04-02 02:49:51,112 - INFO - Starting ProcessPoolExecutor with 16 jobs
+2024-04-02 02:49:51,509 - INFO - Finished ProcessPoolExecutor with 16 jobs: Result = 1.00000007853981, Time = 0.40s
+2024-04-02 02:49:51,509 - INFO - Starting ProcessPoolExecutor with 17 jobs
+2024-04-02 02:49:51,924 - INFO - Finished ProcessPoolExecutor with 17 jobs: Result = 1.0000000785398406, Time = 0.41s
+2024-04-02 02:49:51,924 - INFO - Starting ProcessPoolExecutor with 18 jobs
+2024-04-02 02:49:52,361 - INFO - Finished ProcessPoolExecutor with 18 jobs: Result = 1.0000000785398868, Time = 0.44s
+2024-04-02 02:49:52,362 - INFO - Starting ProcessPoolExecutor with 19 jobs
+2024-04-02 02:49:52,771 - INFO - Finished ProcessPoolExecutor with 19 jobs: Result = 1.0000000785399374, Time = 0.41s
+2024-04-02 02:49:52,771 - INFO - Starting ProcessPoolExecutor with 20 jobs
+2024-04-02 02:49:53,201 - INFO - Finished ProcessPoolExecutor with 20 jobs: Result = 1.0000000785398178, Time = 0.43s
+2024-04-02 02:49:53,202 - INFO - Starting ProcessPoolExecutor with 21 jobs
+2024-04-02 02:49:53,601 - INFO - Finished ProcessPoolExecutor with 21 jobs: Result = 1.0000000785398933, Time = 0.40s
+2024-04-02 02:49:53,601 - INFO - Starting ProcessPoolExecutor with 22 jobs
+2024-04-02 02:49:54,016 - INFO - Finished ProcessPoolExecutor with 22 jobs: Result = 1.0000000785398897, Time = 0.41s
+2024-04-02 02:49:54,016 - INFO - Starting ProcessPoolExecutor with 23 jobs
+2024-04-02 02:49:54,419 - INFO - Finished ProcessPoolExecutor with 23 jobs: Result = 1.00000007853992, Time = 0.40s
+2024-04-02 02:49:54,419 - INFO - Starting ProcessPoolExecutor with 24 jobs
+2024-04-02 02:49:54,823 - INFO - Finished ProcessPoolExecutor with 24 jobs: Result = 1.0000000785399346, Time = 0.40s
